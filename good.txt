@@ -1,2 +1,2 @@
-sndfkndjn
-是否能扣税的
+这是第一次修改文件good.txt
+这是第二次修改文件good.txt
